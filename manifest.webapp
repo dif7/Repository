@@ -1,0 +1,37 @@
+
+{
+
+	"name": "App Memos",
+
+ 	"version": "1.0",
+	"description": "App para crear notas",
+
+	"launch_path": "/index.html",
+	
+	"permissions":
+	{
+		"storage":
+			{
+				"description": "Requerido para almacenar y recuperar las notas."
+			}
+
+	},
+
+
+	"developer":
+	{
+
+		"name": "Alumnos AEG",
+
+		"url": "http://www.aeg.es"
+	},
+
+
+	"icons":
+	{
+		"60": "/style/icons/icon_60.png",
+
+		"128": "/style/icons/icon_128.png"
+	}
+
+}
